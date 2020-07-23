@@ -1,1 +1,1 @@
-# The-Fashion-MNIST-with-TF
+The Fashion MNIST project with TF. Lots of exercise available 
